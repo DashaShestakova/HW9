@@ -1,7 +1,7 @@
 package HW9;
 
 
-import java.util.*;
+import java.util.Comparator;
 
 public class DataContainer <T>  {
     private T [] container;
